@@ -1,0 +1,10 @@
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\BusinessObject\bin\Release\BusinessObject.dll.config
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\BusinessObject\bin\Release\BusinessObject.dll
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\BusinessObject\bin\Release\BusinessObject.pdb
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\BusinessObject\bin\Release\DataProvider.dll
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\BusinessObject\bin\Release\DataProvider.pdb
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\BusinessObject\bin\Release\DataProvider.dll.config
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\BusinessObject\obj\Release\BusinessObject.csprojAssemblyReference.cache
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\BusinessObject\obj\Release\BusinessObject.csproj.CopyComplete
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\BusinessObject\obj\Release\BusinessObject.dll
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\BusinessObject\obj\Release\BusinessObject.pdb

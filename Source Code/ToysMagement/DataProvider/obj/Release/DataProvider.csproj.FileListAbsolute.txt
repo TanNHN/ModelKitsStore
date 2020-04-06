@@ -1,0 +1,6 @@
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\DataProvider\bin\Release\DataProvider.dll.config
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\DataProvider\bin\Release\DataProvider.dll
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\DataProvider\bin\Release\DataProvider.pdb
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\DataProvider\obj\Release\DataProvider.csprojAssemblyReference.cache
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\DataProvider\obj\Release\DataProvider.dll
+C:\Users\Tan\Desktop\FinalProject_SE130068_SE130773\ToysMagement\DataProvider\obj\Release\DataProvider.pdb
